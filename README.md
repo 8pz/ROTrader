@@ -13,7 +13,7 @@
 Fully automated trading bot that executes options trades from Discord analyst alerts
 </pre>
 
-Contact me for private access
+Contact me for private access (beta testers will receive lifetime access on launch)
 
 </div>
 
