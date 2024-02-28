@@ -48,9 +48,11 @@ Comes with highly adaptable and customizable risk management features, focusing 
 - Redesigned check order system to conserve API requests and resources
 - Improved file path fetching to allow program to be ran from another location (shortcuts, etc)
 - Improved UI scaling errors on larger screens
+- Improved `auto_import_info` by making it find details by tickers  (if found in the alert) then most recent
 - Improved login and activation key UI by making it easier to understand
 - Improved main UI logic and design
 - Fixed issues with false errors showing while attempting to close trades
+- Fixed monitored positions not being removed properly after TPO fill
 - Removed UI resizing to prevent scaling issues
 - Temporarily disabled averaging down to fix compatibility issues
 
