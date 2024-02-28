@@ -1,6 +1,6 @@
 <div align="center">
 
-[Features](https://github.com/8pz/ROTrader?tab=readme-ov-file#features) • [Changelog](https://github.com/8pz/ROTrader/wiki/Changelog) • [Contact](https://github.com/8pz/ROTrader#contact-me)
+[Features](https://github.com/8pz/ROTrader?tab=readme-ov-file#features) • [Changelog](https://github.com/8pz/ROTrader/wiki/Changelog) • [Latest Changes](https://github.com/8pz/ROTrader#latest-changes) • [Contact](https://github.com/8pz/ROTrader#contact-me)
  
  <pre>
 ██████╗  ██████╗ ████████╗██████╗  █████╗ ██████╗ ███████╗██████╗ 
@@ -13,7 +13,7 @@
 Fully automated trading bot that executes options trades from Discord analyst alerts
 </pre>
 
-Contact me for private access (beta testers will receive lifetime access on launch)
+Contact me for private access (Beta testers receive lifetime access after launch)
 
 </div>
 
@@ -34,6 +34,26 @@ Unparalleled speed -- send out options orders out in under 2 seconds after an al
 Comes with highly adaptable and customizable risk management features, focusing on maintaining portfolio value and minimizing potential losses.
 
 ![image](https://github.com/8pz/ROTrader/assets/70970973/f1582560-c435-4d04-bb19-4314ba89e10c)
+
+# Latest Changes
+
+- Added onboarding UI for easier usage
+- Added confirmations for "Exit all positions" and "Cancel all orders" buttons to prevent misclicks
+- Added commands to check current positions and status from Discord
+  - `.overview` to show active positions, trade w/l, and session pnl
+  - `.exitall` to exit all trades
+  - `.cancelall` to cancel all orders
+  - `.positions` to show all current positions' analytics
+- Redesigned check order system to conserve API requests and resources
+- Improved file path fetching to allow program to be ran from another location (shortcuts, etc)
+- Improved UI scaling errors on larger screens
+- Improved login and activation key UI by making it easier to understand
+- Improved main UI logic and design
+- Fixed issues with false errors showing while attempting to close trades
+- Removed UI resizing to prevent scaling issues
+- Temporarily disabled averaging down to fix compatibility issues
+
+See historical changelogs [here](https://github.com/8pz/ROTrader/wiki/Changelog)
 
 # Contact
 
