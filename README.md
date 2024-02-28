@@ -53,6 +53,7 @@ Comes with highly adaptable and customizable risk management features, focusing 
 - Improved main UI logic and design
 - Fixed issues with false errors showing while attempting to close trades
 - Fixed monitored positions not being removed properly after TPO fill
+- Fixed CSV not being updated properly
 - Removed UI resizing to prevent scaling issues
 - Temporarily disabled averaging down to fix compatibility issues
 
