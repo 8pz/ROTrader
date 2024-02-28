@@ -38,6 +38,7 @@ Comes with highly adaptable and customizable risk management features, focusing 
 # Latest Changes
 
 - Added onboarding UI for easier usage
+- Added remove button to delete analysts from the settings page
 - Added confirmations for "Exit all positions" and "Cancel all orders" buttons to prevent misclicks
 - Added commands to check current positions and status from Discord
   - `.overview` to show active positions, trade w/l, and session pnl
