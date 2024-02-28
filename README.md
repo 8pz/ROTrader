@@ -53,8 +53,6 @@ Comes with highly adaptable and customizable risk management features, focusing 
 - Removed UI resizing to prevent scaling issues
 - Temporarily disabled averaging down to fix compatibility issues
 
-See historical changelogs [here](https://github.com/8pz/ROTrader/wiki/Changelog)
-
 # Contact
 
 - discord @ 123781023
