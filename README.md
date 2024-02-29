@@ -13,7 +13,7 @@
 Fully automated trading bot that executes options trades from Discord analyst alerts
 </pre>
 
-Contact me for private access (Beta testers receive lifetime access after launch)
+In private access
 
 </div>
 
@@ -23,11 +23,11 @@ Ren Options Trader is an automated trading bot that fetches, interprets, and exe
  
 ![image](https://github.com/8pz/ROTrader/assets/70970973/c7c79156-e0db-4f74-b948-f3697043a815)
 
-Unlimited expandability and compability. No more being limited by complex functions and inefficient advanced algorithms and add any analyst you want.
+Unlimited freedom. Other similar programs are limited to which analyst you can use -- but with ROTrader, you can add any analyst you want.
 
 ![image](https://github.com/8pz/ROTrader/assets/70970973/574c3594-beab-4cb6-a2d1-73dcabfae3f1)
 
-Unparalleled speed -- send out options orders out in under 2 seconds after an alert, giving you the best possible fills. Designed to use efficient functions to index and send out orders as fast as possible instead of sitting in pointless complex algorithms.
+Execute options orders out in under 3 seconds after an alert and giving you the best possible fills. Designed to use efficient functions to index and send out orders as fast as possible instead of complex algorithms.
   
 ![image](https://github.com/8pz/ROTrader/assets/70970973/60c8f2cb-5b9a-4142-90b2-c3125ab222d1)
 
@@ -38,6 +38,7 @@ Comes with highly adaptable and customizable risk management features, focusing 
 # Latest Changes
 
 - Added onboarding UI for easier usage
+- Added delete button (and confirmation) to remove analysts directly from settings
 - Added remove button to delete analysts from the settings page
 - Added confirmations for "Exit all positions" and "Cancel all orders" buttons to prevent misclicks
 - Added commands to check current positions and status from Discord
@@ -52,10 +53,11 @@ Comes with highly adaptable and customizable risk management features, focusing 
 - Improved login and activation key UI by making it easier to understand
 - Improved main UI logic and design
 - Improved console logging by decreasing flooding
+- Fixed CSV not being updated properly
 - Fixed issues with false errors showing while attempting to close trades
 - Fixed monitored positions not being removed properly after TPO fill
-- Fixed CSV not being updated properly
 - Fixed saving settings removing current positions list
+- Fixed UI freezing when using "Exit all positions" and "Cancel all orders" buttons
 - Removed UI resizing to prevent scaling issues
 - Temporarily disabled averaging down to fix compatibility issues
 
