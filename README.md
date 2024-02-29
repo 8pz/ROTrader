@@ -29,7 +29,7 @@ Unlimited freedom. Other similar programs are limited to which analyst you can u
 
 Execute options orders in under 3 seconds after an alert and giving you the best possible fills. Designed to use efficient functions to index and send out orders as fast as possible instead of complex algorithms.
   
-![image](https://github.com/8pz/ROTrader/assets/70970973/f7284410-b5a5-4cae-9817-fbb3d66a189b)
+![image](https://github.com/8pz/ROTrader/assets/70970973/afad38eb-57ee-4a53-8324-9953d0e7a7a9)
 
 Comes with highly adaptable and customizable risk management features, focusing on maintaining portfolio value and minimizing potential losses.
 
