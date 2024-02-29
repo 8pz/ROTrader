@@ -19,7 +19,7 @@ In private access
 
 ------
 
-Ren Options Trader is an automated trading bot that fetches, interprets, and executes options alerts from Discord analysts. The program comes with a variety of trade and risk management features, allowing the program to trade like a human. Designed to be fully automatic, adaptable, compatible with any analyst, reliable, safe, and easy to use. Utilizes simple, yet efficient, functions to execute trades with unparalleled precision. Skip any complex setups, customize your own config, and run everything yourself now. Built with an all in one UI. Check your orders & positions, change settings, and see past orders all in one place.
+Ren Options Trader is a new revolutionary automated trading bot that fetches and executes options alerts from Discord analysts. The program comes with a variety of trade and risk management features, allowing the program to trade like a human. Designed to be fully automatic, adaptable, compatible with any analyst, reliable, safe, and easy to use. Utilizes simple, yet efficient, functions to execute trades with unparalleled precision. Skip any complex setups, customize your own config, and run everything yourself now. Built with an all in one UI. Check your orders & positions, change settings, and see past orders all in one place.
  
 ![image](https://github.com/8pz/ROTrader/assets/70970973/c7c79156-e0db-4f74-b948-f3697043a815)
 
@@ -27,13 +27,13 @@ Unlimited freedom. Other similar programs are limited to which analyst you can u
 
 ![image](https://github.com/8pz/ROTrader/assets/70970973/574c3594-beab-4cb6-a2d1-73dcabfae3f1)
 
-Execute options orders out in under 3 seconds after an alert and giving you the best possible fills. Designed to use efficient functions to index and send out orders as fast as possible instead of complex algorithms.
+Execute options orders in under 3 seconds after an alert and giving you the best possible fills. Designed to use efficient functions to index and send out orders as fast as possible instead of complex algorithms.
   
-![image](https://github.com/8pz/ROTrader/assets/70970973/60c8f2cb-5b9a-4142-90b2-c3125ab222d1)
+![image](https://github.com/8pz/ROTrader/assets/70970973/f7284410-b5a5-4cae-9817-fbb3d66a189b)
 
 Comes with highly adaptable and customizable risk management features, focusing on maintaining portfolio value and minimizing potential losses.
 
-![image](https://github.com/8pz/ROTrader/assets/70970973/f1582560-c435-4d04-bb19-4314ba89e10c)
+![image](https://github.com/8pz/ROTrader/assets/70970973/00dacc22-97fc-44d2-8117-be1f44ac4611)
 
 # Latest Changes
 
