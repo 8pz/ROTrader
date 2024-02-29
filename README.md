@@ -33,7 +33,7 @@ Execute options orders in under 3 seconds after an alert and giving you the best
 
 Comes with highly adaptable and customizable risk management features, focusing on maintaining portfolio value and minimizing potential losses.
 
-![image](https://github.com/8pz/ROTrader/assets/70970973/00dacc22-97fc-44d2-8117-be1f44ac4611)
+![image](https://github.com/8pz/ROTrader/assets/70970973/06767da3-201d-4d49-9725-56ec649487d1)
 
 # Latest Changes
 
