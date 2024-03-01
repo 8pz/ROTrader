@@ -38,6 +38,7 @@ Comes with highly adaptable and customizable risk management features, focusing 
 # Latest Changes
 
 - Added onboarding UI for easier usage
+- Added `max_loss` to stop sessions if exceeded
 - Added delete button (and confirmation) to remove analysts directly from settings
 - Added remove button to delete analysts from the settings page
 - Added confirmations for "Exit all positions" and "Cancel all orders" buttons to prevent misclicks
@@ -53,6 +54,7 @@ Comes with highly adaptable and customizable risk management features, focusing 
 - Improved login and activation key UI by making it easier to understand
 - Improved main UI logic and design
 - Improved console logging by decreasing flooding
+- Improved backend systems
 - Fixed CSV not being updated properly
 - Fixed issues with false errors showing while attempting to close trades
 - Fixed monitored positions not being removed properly after TPO fill
@@ -60,6 +62,7 @@ Comes with highly adaptable and customizable risk management features, focusing 
 - Fixed UI freezing when using "Exit all positions" and "Cancel all orders" buttons
 - Removed UI resizing to prevent scaling issues
 - Temporarily disabled averaging down to fix compatibility issues
+
 
 # Contact
 
