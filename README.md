@@ -66,8 +66,6 @@ Comes with highly adaptable and customizable risk management features, focusing 
 
 # Contact
 
-I can make anything you want -- contact me
-
 - discord @ 123781023
 - telegram @ [onasn](https://t.me/onasn)
 - email @ 123781023@proton.me
