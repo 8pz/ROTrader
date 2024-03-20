@@ -63,9 +63,8 @@ Comes with highly adaptable and customizable risk management features, focusing 
 - Removed UI resizing to prevent scaling issues
 - Temporarily disabled averaging down to fix compatibility issues
 
-
 # Contact
 
-- discord @ 123781023
+- discord @ onasn
 - telegram @ [onasn](https://t.me/onasn)
 - email @ 123781023@proton.me
